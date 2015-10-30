@@ -47,7 +47,7 @@ html, body {
 }
 
 #main-post {
-  flex: 3;
+  flex: 2;
   display: flex;
   flex-direction: column-reverse;
   background-color: #ececec;
@@ -84,7 +84,7 @@ html, body {
 #footer {
   flex: 1;
   background-color: black;
-  color: white;
+  color: #FFB6C1;
   display: flex;
   flex-direction: column;
   font-size: 6pt;
